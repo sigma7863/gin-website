@@ -1,7 +1,7 @@
 ---
 title: "Pola Dependency Injection"
 sidebar:
-  order: 10
+  order: 11
 ---
 
 Seiring aplikasi Gin Anda berkembang, Anda memerlukan cara yang bersih untuk berbagi dependensi seperti koneksi database, konfigurasi, dan layanan di seluruh handler. Kesederhanaan Go mendorong pola langsung dibanding framework DI yang berat.

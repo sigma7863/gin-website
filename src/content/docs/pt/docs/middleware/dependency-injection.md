@@ -1,7 +1,7 @@
 ---
 title: "Padrões de Injeção de Dependência"
 sidebar:
-  order: 10
+  order: 11
 ---
 
 Conforme sua aplicação Gin cresce, você precisa de uma forma limpa de compartilhar dependências como conexões de banco de dados, configurações e serviços entre handlers. A simplicidade do Go encoraja padrões diretos em vez de frameworks pesados de DI.

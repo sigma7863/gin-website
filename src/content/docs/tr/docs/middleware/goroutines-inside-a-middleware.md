@@ -1,7 +1,7 @@
 ---
 title: "Ara katmanda goroutine'ler"
 sidebar:
-  order: 6
+  order: 7
 ---
 
 Bir ara katman veya işleyici içinde yeni Goroutine'ler başlatırken, içinde orijinal context'i **KULLANMAMALISINIZ**, salt okunur bir kopya kullanmanız gerekir.

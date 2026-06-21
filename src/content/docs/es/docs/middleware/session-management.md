@@ -1,7 +1,7 @@
 ---
 title: "Gestión de sesiones"
 sidebar:
-  order: 9
+  order: 10
 ---
 
 Las sesiones permiten almacenar datos específicos del usuario a través de múltiples solicitudes HTTP. Dado que HTTP es sin estado, las sesiones usan cookies u otros mecanismos para identificar usuarios recurrentes y recuperar sus datos almacenados.
